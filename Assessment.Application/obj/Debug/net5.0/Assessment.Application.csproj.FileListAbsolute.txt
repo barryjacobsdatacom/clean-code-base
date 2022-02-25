@@ -1,0 +1,11 @@
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\bin\Debug\net5.0\Assessment.Application.deps.json
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\bin\Debug\net5.0\Assessment.Application.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\bin\Debug\net5.0\ref\Assessment.Application.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\bin\Debug\net5.0\Assessment.Application.pdb
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\Assessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\Assessment.Application.AssemblyInfoInputs.cache
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\Assessment.Application.AssemblyInfo.cs
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\Assessment.Application.csproj.CoreCompileInputs.cache
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\Assessment.Application.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\ref\Assessment.Application.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Application\obj\Debug\net5.0\Assessment.Application.pdb

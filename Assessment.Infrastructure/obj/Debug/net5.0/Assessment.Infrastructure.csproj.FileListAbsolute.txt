@@ -1,0 +1,30 @@
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Infrastructure.deps.json
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\bin\Debug\net5.0\ref\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Infrastructure.pdb
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Core.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Core.pdb
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.AssemblyInfo.cs
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.csproj.CopyComplete
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\ref\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\.NET Core Application\Assessment\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.pdb
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Infrastructure.deps.json
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\bin\Debug\net5.0\ref\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Infrastructure.pdb
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Core.dll
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\bin\Debug\net5.0\Assessment.Core.pdb
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.AssemblyInfo.cs
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.csproj.CopyComplete
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\ref\Assessment.Infrastructure.dll
+C:\Code\Datacom\Assessment\clean-code-base\Assessment.Infrastructure\obj\Debug\net5.0\Assessment.Infrastructure.pdb
